@@ -1,5 +1,5 @@
 # 👶 Mini-Me El proyecto más hermoso que nos toca encarar v1.0  
-**Status:** 🚧 *Under Construction* | **ETA:** `[08/2025]`  
+**Status:** 🚧 *Under Construction* | **ETA:** `[10/2025]`  
 
 ![Baby Preview](https://res.cloudinary.com/djnbxghzl/image/upload/v1742908788/eco/frncvykhbhuurtq9kshe.png)
 
