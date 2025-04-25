@@ -2,6 +2,8 @@
 **Status:** 🚧 *Under Construction* | **ETA:** `[10/2025]`  
 
 ![Baby Preview](https://res.cloudinary.com/djnbxghzl/image/upload/v1742908788/eco/frncvykhbhuurtq9kshe.png)
+![Baby Preview](https://res.cloudinary.com/djnbxghzl/image/upload/v1745604586/eco/tlaybvjjym2ciwmlc40h.png)
+![Baby Preview](https://res.cloudinary.com/djnbxghzl/image/upload/v1745604586/eco/w3nmqxdqvvcsglhgouro.png)
 
 ## 📝 **Project Description**  
 Un **nuevo contributor** se unirá al repositorio familiar. Actualmente en fase de *active development*, con updates diarios y *sprints* de pataditas.  
